@@ -9,4 +9,5 @@ Nama  : Ocktaviyani Dwi Hayati
 4. Mencari nilai terbesar dan terkecil
 5. Menghapus seluruh isi bilangan BST atau dengan kata lain melakukan reset terhadap BST
 6. Menampilkan seluruh perintah dengan memilih di pilihan menu yang sudah tersedia dengan menginput pilihan menu dan ikuti langkah selanjutnya
+
 Untuk melihat hasil dari program yang dijalankan dapat dilihat pada kolom issues atau klik link https://github.com/OcktaviyaniDwiHayati/UAS_PSDA_PROJECT_BST/issues/1#issue-639662833
